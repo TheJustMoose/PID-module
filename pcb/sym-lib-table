@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name STM8S105)(type Legacy)(uri C:/PROJECT/PID-module/pid-module/STM8S105.lib)(options "")(descr ""))
+  (lib (name IRLML2502)(type Legacy)(uri C:/PROJECT/PID-module/pid-module/IRLML2502.lib)(options "")(descr ""))
+)
